@@ -21,7 +21,8 @@ A clean and responsive Resume Builder web application built using HTML, CSS, and
 - JavaScript (Vanilla JS)
 
 ---
-
+##preview
+ https://aayushgowda.github.io/Resume-builder/
 ---
 
 ## 📦 How to Use
