@@ -22,8 +22,6 @@ A clean and responsive Resume Builder web application built using HTML, CSS, and
 
 ---
 
-## preview
-
 ---
 
 ## 📦 How to Use
